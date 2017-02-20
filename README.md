@@ -1,6 +1,6 @@
 # Angular 2 NestedGrid
 
-# Angular 2 POC with following features without using any third party component.
+ Angular 2 POC with following features without using any third party component.
   •	Features:
     o	Nested Grid
     o	Sorting 
